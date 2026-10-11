@@ -1,5 +1,7 @@
 # BST vs Hash Table: Performance Comparison
 
+Yernar Kuanyshbek
+
 ## Objective
 
 Implement an **ordinary (unbalanced) Binary Search Tree (BST)** and a **Hash Table**, then compare how long it takes to insert, search for, and delete 100, 1,000, and 10,000 integers.
